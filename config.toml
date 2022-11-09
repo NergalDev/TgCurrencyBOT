@@ -1,0 +1,11 @@
+token = ''
+
+logfile = 'currency_bot.log'
+
+[redis]
+host = 'localhost'
+port = '6379'
+pwd = ''
+
+[cache]
+ttl = 600
